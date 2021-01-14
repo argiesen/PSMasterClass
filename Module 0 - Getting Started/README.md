@@ -8,6 +8,6 @@
 
 ## Install GitHub Desktop
 
-## Reading
+## Prequisite Reading
 
 ### History of PowerShell
