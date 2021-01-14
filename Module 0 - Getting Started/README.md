@@ -1,8 +1,13 @@
-# Install Notepad++
+# Getting Started with PowerShell
 
-# Install VS Code
+## Install Notepad++
 
-# Sign up for GitHub
+## Install VS Code
 
-# Install GitHub Desktop
+## Sign up for GitHub
 
+## Install GitHub Desktop
+
+## Reading
+
+### History of PowerShell
