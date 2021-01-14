@@ -6,7 +6,7 @@
 	* About the Application 
 		* What is it? 
 		* What does it do? 
-		*Where does it live in Windows
+		* Where does it live in Windows
 	* Customizing Your Environment 
 		* Terminal Settings 
 			* Font 
