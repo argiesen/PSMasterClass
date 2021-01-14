@@ -11,3 +11,5 @@ If you're new to scripting and want a simple option, or prefer to use Notepad++ 
 
 ## VisualStudio Code with Git
 If you're an advanced scripter and want a full IDE, or already use VS Code, this is the recommended option.
+
+## Using source control with VS Code + Git or GitHub Desktop
